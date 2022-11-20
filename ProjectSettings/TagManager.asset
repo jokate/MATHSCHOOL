@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fighter
+  - Box
+  - TeacherActivator
+  - DokkebiActivator
+  - Teacher
+  - WaitPlayer
+  - Dokkebi
+  - StickyZone
+  - RespawnBeacon
+  - SpawnPoints
+  - Manager
+  - SettingBeacon
+  - Door
+  - Counter
+  - Vent
+  - ActivationButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - Actor
+  - CachingBound
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: floor
+    uniqueID: 2762257571
+    locked: 0
+  - name: Actor
+    uniqueID: 1238963739
+    locked: 0
+  - name: Interactable
+    uniqueID: 775113145
+    locked: 0
+  - name: weapon
+    uniqueID: 4231963307
+    locked: 0
+  - name: NameText
+    uniqueID: 164746165
+    locked: 0
